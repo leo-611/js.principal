@@ -1,0 +1,13 @@
+//- **Estruturas de loop(**´for/while'**)**
+
+let lista = [6,4,5]
+
+for (let i = 0; i < lista.length;i++){
+  console.log("número: " + lista[i]);
+}
+
+//se o cliente compra mais de 3 unidades de produto, aplicar 10%de desconto
+
+//se o valor total de compra for maior que 500, oferecer frete gratis
+
+//se o cliente for cadastrado como "vip", sempre aplicar 5%de desconto
